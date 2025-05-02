@@ -51,7 +51,7 @@ const Home = () => {
                     <div className="content-inner">
                         <p>I'm</p>
                         <h1>Dibyendu Ghanty</h1>
-                        <h2>Web Devloper</h2>
+                        <h2>React js Frontend Web Devloper</h2>
                         {/* <div className="typed-text">Web Designer, Web Developer, Front End Developer, Apps Developer, Graphic Designer</div> */}
                     </div>
                 </div>
@@ -61,9 +61,7 @@ const Home = () => {
                 <div className="large-btn">
                     <div className="content-inner">
                         <a className="btn" href="https://drive.google.com/file/d/1dmOV6cz7MW2xopS-IPaTE8RKYapoYCgO/view?usp=drive_link"><i className="fa fa-download"></i>Resume</a>
-                        <a className="btn" href="mailto:yourname@example.com">
-  <i className="fa fa-hands-helping"></i> Hire Me
-</a>
+                        <a className="btn" href="mailto:yourname@example.com"><i className="fa fa-hands-helping"></i> Hire Me</a>
 
                     </div>
                 </div>

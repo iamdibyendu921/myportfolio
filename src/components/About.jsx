@@ -19,9 +19,9 @@ const About = () => {
           </div>
           <div className="col-md-6 col-lg-7">
             <p>
-            Hi! I'm Dibyendu Ghanty, a web developer with a strong foundation in HTML, CSS, JavaScript, and design.I’ve dedicated my time to working on various projects that have allowed me to develop and apply my skills in real-world scenarios.
+            Hi! I'm Dibyendu Ghanty, a web developer with a strong foundation in React Js, HTML, CSS, JavaScript.I’ve dedicated my time to working on various projects that have allowed me to develop and apply my skills in real-world scenarios.
             </p>
-            <a className="btn" href="#">Hire Me</a>
+            <a className="btn" href="mailto:yourname@example.com">Hire Me</a>
           </div>
         </div>
         <div className="row">
