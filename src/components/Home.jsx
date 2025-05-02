@@ -276,8 +276,8 @@ const Home = () => {
                                 <div className="portfolio-wrap">
                                     <figure>
                                         <img src="img/portfolio-2.jpg" className="img-fluid" alt=""/>
-                                        <a href="img/portfolio-2.jpg" className="link-preview" data-lightbox="portfolio" data-title="Project Name" title="Preview"><i className="fa fa-eye"></i></a>
-                                        <a href="#" className="link-details" title="More Details"><i className="fa fa-link"></i></a>
+                                        <a href="https://calender1234.netlify.app/" className="link-preview" title="Preview"><i className="fa fa-eye"></i></a>
+                                        <a href="https://github.com/iamdibyendu921/calender" className="link-details" title="More Details"><i className="fa fa-link"></i></a>
                                         <a className="portfolio-title" href="#">Project Name <span>Google Calender</span></a>
                                     </figure>
                                 </div>
@@ -287,8 +287,8 @@ const Home = () => {
                                 <div className="portfolio-wrap">
                                     <figure>
                                         <img src="img/portfolio-3.jpg" className="img-fluid" alt=""/>
-                                        <a href="img/portfolio-3.jpg" className="link-preview" data-lightbox="portfolio" data-title="Project Name" title="Preview"><i className="fa fa-eye"></i></a>
-                                        <a href="#" className="link-details" title="More Details"><i className="fa fa-link"></i></a>
+                                        <a href="https://videoplayer007.netlify.app/" className="link-preview" title="Preview"><i className="fa fa-eye"></i></a>
+                                        <a href="https://github.com/iamdibyendu921/video_player" className="link-details" title="More Details"><i className="fa fa-link"></i></a>
                                         <a className="portfolio-title" href="#">Project Name <span>Video Player</span></a>
                                     </figure>
                                 </div>
@@ -298,9 +298,9 @@ const Home = () => {
                                 <div className="portfolio-wrap">
                                     <figure>
                                         <img src="img/portfolio-4.jpg" className="img-fluid" alt=""/>
-                                        <a href="img/portfolio-4.jpg" className="link-preview" data-lightbox="portfolio" data-title="Project Name" title="Preview"><i className="fa fa-eye"></i></a>
-                                        <a href="#" className="link-details" title="More Details"><i className="fa fa-link"></i></a>
-                                        <a className="portfolio-title" href="#">Project Name <span>Web Development</span></a>
+                                        <a href="https://music-player-mu-ashen-65.vercel.app/" className="link-preview" title="Preview"><i className="fa fa-eye"></i></a>
+                                        <a href="https://github.com/iamdibyendu921/music-player" className="link-details" title="More Details"><i className="fa fa-link"></i></a>
+                                        <a className="portfolio-title" href="#">Project Name <span>Music Player</span></a>
                                     </figure>
                                 </div>
                             </div>
@@ -309,20 +309,9 @@ const Home = () => {
                                 <div className="portfolio-wrap">
                                     <figure>
                                         <img src="img/portfolio-5.jpg" className="img-fluid" alt=""/>
-                                        <a href="img/portfolio-5.jpg" className="link-preview" data-lightbox="portfolio" data-title="Project Name" title="Preview"><i className="fa fa-eye"></i></a>
-                                        <a href="#" className="link-details" title="More Details"><i className="fa fa-link"></i></a>
-                                        <a className="portfolio-title" href="#">Project Name <span>Digital Marketing</span></a>
-                                    </figure>
-                                </div>
-                            </div>
-
-                            <div className="col-lg-4 col-md-6 portfolio-item dig-mar">
-                                <div className="portfolio-wrap">
-                                    <figure>
-                                        <img src="img/portfolio-6.jpg" className="img-fluid" alt=""/>
-                                        <a href="img/portfolio-6.jpg" className="link-preview" data-lightbox="portfolio" data-title="Project Name" title="Preview"><i className="fa fa-eye"></i></a>
-                                        <a href="#" className="link-details" title="More Details"><i className="fa fa-link"></i></a>
-                                        <a className="portfolio-title" href="#">Project Name <span>Digital Marketing</span></a>
+                                        <a href="https://todoform12.netlify.app/" className="link-preview" title="Preview"><i className="fa fa-eye"></i></a>
+                                        <a href="https://github.com/iamdibyendu921/todo" className="link-details" title="More Details"><i className="fa fa-link"></i></a>
+                                        <a className="portfolio-title" href="#">Project Name <span>Todo App</span></a>
                                     </figure>
                                 </div>
                             </div>
@@ -411,27 +400,7 @@ const Home = () => {
                                     </div>
                                 </div>
                             </div>
-                            {/* <div className="col-md-6">
-                                <div className="form">
-                                    <form>
-                                        <div className="form-row">
-                                            <div className="form-group col-md-6">
-                                                <input type="text" className="form-control" placeholder="Your Name" />
-                                            </div>
-                                            <div className="form-group col-md-6">
-                                                <input type="email" className="form-control" placeholder="Your Email" />
-                                            </div>
-                                        </div>
-                                        <div className="form-group">
-                                            <input type="text" className="form-control" placeholder="Subject" />
-                                        </div>
-                                        <div className="form-group">
-                                            <textarea className="form-control" rows="5" placeholder="Message"></textarea>
-                                        </div>
-                                        <div><button className="btn" type="submit">Send Message</button></div>
-                                    </form>
-                                </div>
-                            </div> */}
+                            
                         </div>
                     </div>
                 </div>
