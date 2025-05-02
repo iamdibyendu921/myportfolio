@@ -31,7 +31,7 @@ const Home = () => {
                                     <a className="nav-link" href="#service">Service<i className="fa fa-tasks"></i></a>
                                 </li> */}
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#portfolio">Portfolio<i className="fa fa-file-archive"></i></a>
+                                    <a className="nav-link" href="#portfolio">Personal Project<i className="fa fa-file-archive"></i></a>
                                 </li>
                                 <li className="nav-item">
                                     <a className="nav-link" href="#contact">Contact<i className="fa fa-envelope"></i></a>
@@ -41,7 +41,7 @@ const Home = () => {
                     </nav>
                 </div>
                 <div className="sidebar-footer">
-                    <a href="#"><i className="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/dibyendu-ghanty-689946133"><i className="fab fa-linkedin-in"></i></a>
                     <a href="https://github.com/iamdibyendu921"><i className="fab fa-github"></i></a>
                 </div>
             </div>
@@ -257,7 +257,7 @@ const Home = () => {
                 <div className="portfolio" id="portfolio">
                     <div className="content-inner">
                         <div className="content-header">
-                            <h2>Portfolio</h2>
+                            <h2>Personal Projects</h2>
                         </div>
                         
                         <div className="row portfolio-container">
@@ -401,17 +401,17 @@ const Home = () => {
                             <div className="col-md-6">
                                 <div className="contact-info">
                                     <p><i className="fa fa-user"></i>DIBYENDU GHANTY</p>
-                                    <p><i className="fa fa-tag"></i>Web Devloper & Designer</p>
+                                    <p><i className="fa fa-tag"></i>Web Devloper</p>
                                     <p><i className="fa fa-envelope"></i><a href="mailto:info@example.com">ghanty.dibyendu0@gmail.com</a></p>
                                     <p><i className="fa fa-phone"></i><a href="tel:+1234567890">+918777017140</a></p>
                                     <p><i className="fa fa-map-marker"></i>Andal, Durgapur, W.B 713321</p>
                                     <div className="social">                                                                               
-                                        <a className="btn" href=""><i className="fab fa-linkedin-in"></i></a>                                       
+                                        <a className="btn" href="https://www.linkedin.com/in/dibyendu-ghanty-689946133"><i className="fab fa-linkedin-in"></i></a>                                       
                                         <a className="btn" href="https://github.com/iamdibyendu921"><i className="fab fa-github"></i></a>
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-md-6">
+                            {/* <div className="col-md-6">
                                 <div className="form">
                                     <form>
                                         <div className="form-row">
@@ -431,7 +431,7 @@ const Home = () => {
                                         <div><button className="btn" type="submit">Send Message</button></div>
                                     </form>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
